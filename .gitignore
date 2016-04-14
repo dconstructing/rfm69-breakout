@@ -1,0 +1,9 @@
+# Eagle
+# Project configuration
+*.epf
+# Board and Schematic backup files
+*.b#?
+*.s#?
+# AutoRouter files
+*.job
+*.pro
