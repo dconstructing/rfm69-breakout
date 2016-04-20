@@ -7,3 +7,5 @@
 # AutoRouter files
 *.job
 *.pro
+# Open project lock
+*.lck
